@@ -6,7 +6,12 @@
 <body style="bakcground-color:ligthblue>
 <h1>Hello mi nombre es Josgart Torres<h1>
 <p>Estudio en el CTP Ambientalista Isaias Retana Arias<p>
-<h2>Me gusta:<h2>
-<p>Las motos y jugar bola<p>
+<h2>Me gusta:</h2>
+<ul style="list-style:none;">
+<li> Las motos</li>
+<li> El futbol</li>
+</ul>
+</body>
+</html>
 
 
