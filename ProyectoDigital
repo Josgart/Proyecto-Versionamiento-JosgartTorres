@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mi Pagina Personal</title>
 </head>
 <body style="background-color:lightblue">
@@ -16,7 +18,7 @@
 <li> El futbol</li>
 </ul>
 
-<img src="img/Mimo.png">
+<img src="img/Mimo.png" alt="Foto personal">
 
 </body>
 </html>
